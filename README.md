@@ -1,8 +1,20 @@
+> ## Retired
+>
+> **The Logos Theta Android app is retired (2026-10-20).** All four APK releases (`apk-v1` ... `apk-v4`) have been
+> unpublished and their download files removed. The originals are kept in the house archive; nothing was deleted.
+>
+> **The current build is Sonolumina: https://seabasskrahn.github.io/sonolumina/** -- please use that.
+>
+> This repository holds the earlier build (2026101305), which is kept for the record and is still served at
+> https://seabasskrahn.github.io/sonolumina-build/ . The address the old phone app loads from,
+> `https://seabasskrahn.github.io/logos-theta/`, now serves a retirement notice only.
+> If you still have the Logos Theta app installed, please uninstall it and use the link above.
+
 > **New agent? Read [HANDOFF.md](HANDOFF.md) first.** It is the single entry point with the full context. Details are in [docs/](docs/), and key choices are in [decisions.md](decisions.md).
 
 # Sonolumina (Logos Theta)
 
-Bible audio web app: scripture narration with a tone layer built from each word's own codebook (how the word is used in the Bible) and an emotion-driven score. Live at https://seabasskrahn.github.io/logos-theta/. Full algorithm: `SONOLUMINA_ALGORITHM.md` (design repo).
+Bible audio web app: scripture narration with a tone layer built from each word's own codebook (how the word is used in the Bible) and an emotion-driven score. Live at https://seabasskrahn.github.io/sonolumina-build/ (this older build; the current build is https://seabasskrahn.github.io/sonolumina/). Full algorithm: `SONOLUMINA_ALGORITHM.md` (design repo).
 
 ## Texts and data credits
 - **Berean Standard Bible (BSB)**: public domain (Berean Bible, bereanbible.com). Default reading and narration text (`bsb/`).
